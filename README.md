@@ -1,5 +1,6 @@
 # mnist
 
-Image Recognition - MNIST dataset
+## Image Recognition 
 
+Dataset - MNIST dataset
 Algorithms - Logistic Regression, KNN - with and without PCA, CNN
